@@ -1,0 +1,9 @@
+{
+    "name": "beatbox-relay",
+    "version": "0.0.1",
+    "description": "Relay beatbox commands from Node.js to C app",
+    "dependencies": {
+        "socket.io": "~0.9.6",
+        "mime": "~1.2.7"
+    }
+}
